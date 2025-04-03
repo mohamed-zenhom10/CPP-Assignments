@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Level 2 - Second Semester\\GitHub\\CPP-Assignments\\cpp-assignments\\Double Linked List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB695BB-8688-4CBC-96CC-226EA3DC47B3}|Double Linked List\\Double Linked List.vcxproj|D:\\University\\Level 2 - Second Semester\\GitHub\\CPP-Assignments\\cpp-assignments\\Double Linked List\\Double Linked List\\dbll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3BB695BB-8688-4CBC-96CC-226EA3DC47B3}|Double Linked List\\Double Linked List.vcxproj|solutionrelative:Double Linked List\\dbll.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbll.cpp",
+              "DocumentMoniker": "D:\\University\\Level 2 - Second Semester\\GitHub\\CPP-Assignments\\cpp-assignments\\Double Linked List\\Double Linked List\\dbll.cpp",
+              "RelativeDocumentMoniker": "Double Linked List\\dbll.cpp",
+              "ToolTip": "D:\\University\\Level 2 - Second Semester\\GitHub\\CPP-Assignments\\cpp-assignments\\Double Linked List\\Double Linked List\\dbll.cpp",
+              "RelativeToolTip": "Double Linked List\\dbll.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T20:25:16.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
